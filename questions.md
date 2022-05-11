@@ -24,4 +24,4 @@
 
     ```
 
-    What if more than one functions are defined in the body of function `cake()`? Would these functions be executed in order if I call `cake()()`?
+    <del>What if more than one functions are defined in the body of function `cake()`? Would these functions be executed in order if I call `cake()()`?</del>
